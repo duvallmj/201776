@@ -16,8 +16,8 @@
 title: 201776
 email: duvallmj@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is the home of 201776 the inevitably disappointing sequel 
-  to 2016candles.
+  This is the home of 201776 the inevitably disappointing hamilton
+  themed sequel to 2016candles.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.201776.zone" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: threatattack
